@@ -1,0 +1,30 @@
+.Form-Wrapper {
+	background-color: #d4d4d6;
+}
+
+.ArtistsForm {
+	padding-top: 10px;
+	padding-bottom: 20px;
+	padding-left: 5px;
+	padding-right: 5px;
+	background-color: #d4d4d6;
+	text-align: left;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+.PlaylistURIInputClass {
+	padding-right: 50%;
+}
+
+.albumTypesWrapper {
+	margin: 5px 0px 5px 0px;
+}
+
+.tracksFilterWrapper {
+	margin: 5px 0px 5px 0px;
+}
+
+.submitButtonWrapper {
+	margin: 5px 0px 5px 0px;
+}
